@@ -1,5 +1,6 @@
 ## Hi there <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="40px">, I'm Theo
 
+
 ### 👨‍💻 About Me
 
 - 👦🏾 I'm a passionate upcoming software developer on a journey to  build, fix, learn, and expand in the world of tech.
@@ -9,6 +10,14 @@
 - 📫 How to reach me: [theodorentolo27gmail.com]
 - ⚡ Fun fact:[Love sloving coding problems]
 - Find me on LinedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-url/)
+
+---
+  ### 🛠 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 
 
 
