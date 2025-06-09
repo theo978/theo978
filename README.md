@@ -5,7 +5,9 @@
 
 - 👦🏾 I'm a passionate upcoming software developer on a journey to  build, fix, learn, and expand in the world of tech.
 - 🔭 I’m currently working on: [Building websites with JavaScript for functionality on my upcoming website (coming soon)]
-- 🌱 I’m learning: [HTML, CSS and javascript]
+- 🌱 I’m learning/skill: [HTML, CSS and javascript]
+- 📌 Career goals : To become a faster thinker in terms of sloving problems faster with accuracy.
+- 💫 Interests: Building interactive websites that's useful.
 - 📫 How to reach me: [theodorentolo27gmail.com]
 - ⚡ Fun fact:[Love sloving coding problems]
 - Find me on LinedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theo-62797336a/)
