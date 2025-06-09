@@ -10,14 +10,7 @@
 - ⚡ Fun fact:[Love sloving coding problems]
 - Find me on LinedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theo-62797336a/)
 ---
-### 📌 Pinned Projects
 
-Here are a few projects I’m proud of:
-
-- 🚀 [*Instagram cat profile](https://github.com/yourusername/project-repo) – *A brief description of your project.
-- 🌐 [*Portfolio Website](https://yourportfolio.com) – *My personal portfolio built with [tech stack].
-- 💡 [*Mini JavaScript Apps](https://github.com/yourusername/mini-js-projects) – *Collection of small frontend practice projects.
----
   ### 🛠 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
