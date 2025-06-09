@@ -8,8 +8,7 @@
 - 🌱 I’m learning: [HTML, CSS and javascript]
 - 📫 How to reach me: [theodorentolo27gmail.com]
 - ⚡ Fun fact:[Love sloving coding problems]
-- Find me on LinedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-url/)
-
+- Find me on LinedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theo-62797336a/)
 ---
 ### 📌 Pinned Projects
 
