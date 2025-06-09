@@ -6,11 +6,18 @@
 - 👦🏾 I'm a passionate upcoming software developer on a journey to  build, fix, learn, and expand in the world of tech.
 - 🔭 I’m currently working on: [Building websites with JavaScript for functionality on my upcoming website (coming soon)]
 - 🌱 I’m learning: [HTML, CSS and javascript]
-- 💬 Ask me about: [What you're confident helping others with, e.g., HTML/CSS, beginner JavaScript]
 - 📫 How to reach me: [theodorentolo27gmail.com]
 - ⚡ Fun fact:[Love sloving coding problems]
 - Find me on LinedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-url/)
 
+---
+### 📌 Pinned Projects
+
+Here are a few projects I’m proud of:
+
+- 🚀 [*Instagram cat profile](https://github.com/yourusername/project-repo) – *A brief description of your project.
+- 🌐 [*Portfolio Website](https://yourportfolio.com) – *My personal portfolio built with [tech stack].
+- 💡 [*Mini JavaScript Apps](https://github.com/yourusername/mini-js-projects) – *Collection of small frontend practice projects.
 ---
   ### 🛠 Tech Stack
 
@@ -18,14 +25,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+---
+## 📈 Git stats
 
-
-
-
+![theo978's Stats](https://github-readme-stats.vercel.app/api?username=theo978&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![theo978's Streak](https://github-readme-streak-stats.herokuapp.com/?user=theo978&theme=vue-dark&hide_border=true)
+![theo978's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theo978&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **theo978/theo978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
